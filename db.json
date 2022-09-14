@@ -1,0 +1,27 @@
+{
+  "services": [{ "id": 1, "title": "Business solutions", 
+    "thumbnailUrl": "bz.jpg", "rate": 300,
+    "rating": 4.4, "specialist": { "id": 1, "fullName": "Mark brone" }},
+    { "id": 2, "title": "Mechanic", 
+      "thumbnailUrl": "mechanic.jpg", "rate": 500,
+      "rating": 4.5, "specialist": { "id": 1, "fullName": "Henry ford" }},
+      { "id": 3, "title": "Teacher", 
+        "thumbnailUrl": "teacher.jpg", "rate": 420,
+        "rating": 5.0, "specialist": { "id": 1, "fullName": "Angela Yu" }},
+        { "id": 4, "title": "Electrician", 
+          "thumbnailUrl": "electrician.jpg", "rate": 200,
+          "rating": 4.5, "specialist": { "id": 1, "fullName": "JJ Thomson" }},
+          { "id": 5, "title": "Carpenter" ,
+          "thumbnailUrl": "carpenter.jpg", "rate": 500,
+          "rating": 4.9, "specialist": { "id": 1, "fullName": "Henry Wood" }},
+          { "id": 6, "title": "Spray work", 
+            "thumbnailUrl": "spray.jpg", "rate": 300,
+            "rating": 4.8, "specialist": { "id": 1, "fullName": "Mitchel" }},
+            { "id":7, "title": "Manager", 
+              "thumbnailUrl": "office.jpg", "rate": 800,
+              "rating": 4.6, "specialist": { "id": 1, "fullName": "Prateek" }},
+              { "id": 4, "title": "AC servicing ", 
+          "thumbnailUrl": "ac.jpg", "rate": 600,
+          "rating": 4.7, "specialist": { "id": 1, "fullName": "Sunny" }}
+  ]
+}
